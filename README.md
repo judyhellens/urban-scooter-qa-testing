@@ -70,6 +70,23 @@ Documented bugs and test evidence using Jira and Google Sheets.
 ### API Testing
 [https://docs.google.com/spreadsheets/d/1jHCLps8j_o4k8NsVGdlrep-pzTlv39RfJ6fFiTEcVd4/edit?gid=46614568#gid=46614568]
 
+## 📸 Screenshots
+
+### Postman API Testing
+![Postman Testing](screenshots/postman-testID19.png)
+![Postman Testing](screenshots/postman-testID30.png)
+![Postman Testing](screenshots/postman-testID26.png)
+![Postman Testing](screenshots/web-testingPOSTAPI.png)
+![Postman Testing](screenshots/web-testingPOSTAPI2.png)
+![Postman Testing](screenshots/web-testingPOSTAPI3.png)
+![Postman Testing](screenshots/web-testingDELETE.png)
+
+
+### Bug Reports
+![Bug Report](screenshots/jira-bugpostID19.png)
+![Bug Report](screenshots/jira-bugpostID30.png)
+![Bug Report](screenshots/jira-bugpostID26.png)
+![Bug Report](screenshots/jira-bugTESTING.png)
 
 ## 👩‍💻 Author
 Judy Hellen Silva
